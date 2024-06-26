@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-WRGF8Ut8Y4eCv4Tdfim1GiT7L7g5Rm/DJk1F+H5Eum7BgFS/wRHQq57Ht2MF8gGlpmJW5dEbb35N5P3S00RQ9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body{
+            background-color: lightblue;
+            font-family: "Sofia", sans-serif;
+        }
+        .navbar{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .navbar-nav{
+            display: flex;
+            justify-content: center;
+            flex-grow: 1;
+
+        }
+        .carousel-control-prev-icon,
+        .carousel-control-next-icon{
+            background-color: black;
+            border-radius: 50%;
+        }
+
+        .carousel-control-next{
+            right: 10px;
+        }
+
+        .display-4{
+            text-shadow: 2px 2px 4px #000000;
+        }
+        @media screen and (max-width: 480px) {
+            .carousel-item {
+                height: auto; 
+            }
+            .carousel-item img {
+                height: auto; 
+            }
+        }
+        @media screen and (max-width: 720px) {
+            .carousel-item {
+                height: auto; 
+            }
+            .carousel-item img {
+                height: auto; 
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="d-flex align-items-center">
+            <img src="IMG_20240201_120556.jpg" alt="Connecting Through Charity Logo" width="100" height="100">
+            </div>
+            <div class="navbar-nav">
+            <a class="navbar-brand" href="index.html">Home</a>
+            <a class="navbar-brand" href="contact.html">Contact</a>
+            <a class="navbar-brand" href="gallery.html">Gallery</a>
+            <a class="navbar-brand" href="donations.html">Donate</a>
+            <a class="navbar-brand" href="signup-calendar.html">Calendar</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="jumbotron text-center py-9">
+            <h1 class="display-4">Our Gallery</h1>
+        </div>
+        <div class="container">
+            <br>
+            <br>
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="beverages438230629_739559948361456_4870856648814876018_n.jpg" class="d-class img-fluid" alt="Fourth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="gifts278846223_302645948699019_2363208666758668398_n.jpg" class="d-class img-fluid" alt="Fifth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="cardinals438108213_744264367891014_7416172047468205826_n.jpg" class="d-class img-fluid" alt="Sixth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="bookbags293677317_361645599465720_6183845010683763699_n.jpg" class="d-class img-fluid" alt="Seventh slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="happyhalloween304937096_399429999020613_8033113429797121187_n.jpg" class="d-class img-fluid" alt="Eigth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="halloween290082002_348670500763230_5818412153068429610_n.jpg" class="d-class img-fluid" alt="Ninth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="notrebook439321352_744262451224539_7586243793014937378_n.jpg" class="d-class img-fluid" alt="Tenth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="gifts279106005_302646355365645_3201321848973438259_n.jpg" class="d-class img-fluid" alt="Eleventh slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="folders&notebooks295010794_361645546132392_1233218150454576365_n.jpg" class="d-class img-fluid" alt="Twelfth slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="assecosries285672565_333443608952586_6470828942758646194_n.jpg" class="d-class img-fluid" alt="Thirteen slide" height="800">
+                </div>
+                <div class="carousel-item">
+                    <img src="basket1305572555_399429942353952_6417733895988656694_n.jpg" class="d-class img-fluid" alt="Fourteen slide" height="800">
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+    </div>
+    </main>
+    <footer class="text-light bg-dark py-4">
+        <div class="container">
+            <h3>Who We Are</h3>
+            <br>
+            <p>At Connecting Through Charity, we believe in the power of community and the impact we can have when we come together to support one another. Our mission is to provide consistent, year-round assistance to those in need, helping them overcome hardships and build a better future. Through our various projects and initiatives, we strive to create a network of care and compassion that extends to every corner of our local community</p>
+            <div>
+                <h3>Our Facebook</h3>
+                <a href="https://www.facebook.com/ConnectingThroughCharity/?_rdr" target="_blank" class="text-light me-3">
+                    <i class="fa fa-facebook-square" style="font-size:48px;"></i>
+                </a>
+                <br>
+                <br>
+                <h3>Our Nextdoor</h3>
+                <a href="https://us.nextdoor.com/pages/connecting-through-charity-ofallon-mo/" target="_blank" class="text-light me-3">
+                    <img src="nextdoor_logo.png" alt="NextDoor Logo Button" width="60" height="60">
+                </a>
+                <br>
+                <br>
+                <h3>Ranken Technical College</h3>
+                <a href="https://ranken.edu/" target="_blank" class="text-light me-3">
+                    <img src="ranken_logo.png" alt="Ranken Logo Button" width="150" height="50">
+                </a>
+            </div>
+            <br>
+            <h1 class="text-center mt-4">&#169;Connecting Through Charity 2024</h1>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
