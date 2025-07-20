@@ -1,0 +1,33 @@
+﻿@model Customer
+<h1>Add Customer</h1>
+<form asp-action="Add" method="post" enctype="multipart/form-data">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<div class="mb-3">
+		<label asp-for="Username">Username</label>
+		<input asp-for="Username" class="form-control" />
+		<span asp-validation-for="Username"></span>
+	</div>
+	
+	@* <div class="mb-3"><div class="mb-3"> *@
+	@* 	<label asp-for="DOB" class="form-label">Date of Birth</label> *@
+	@* 	<input asp-for="DOB" class="form-control" /> *@
+	@* </div> *@
+	<div class="mb-3">
+		<input asp-for="Image" class="form-control" />
+		<span asp-validation-for="Image" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Password" class="form-label">Password</label>
+		<input asp-for="Password" class="form-control" />
+	</div>
+	<div class="mb-3">
+		<label asp-for="ConfirmPassword" class="form-label">@Html.LabelForModel()</label>
+		<input asp-for="ConfirmPassword" class="form-control" />
+	</div>
+
+	<button type="submit" class="btn btn-primary">Add Customer</button>
+</form>
+
+@section Scripts{
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

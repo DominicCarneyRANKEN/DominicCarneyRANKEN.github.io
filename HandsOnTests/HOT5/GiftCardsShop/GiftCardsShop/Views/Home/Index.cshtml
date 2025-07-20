@@ -1,0 +1,41 @@
+﻿@model List<GiftCards>
+
+@{
+    ViewData["Title"] = "Gift Cards";
+}
+
+<h1 class="text-center">Gift Cards</h1>
+
+<form method="get" class="mb-3">
+    <input type="text" name="searchTerm" placeholder="Search by name..." class="form-control" value="@Context.Request.Query["searchTerm"]" />
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+<div class="row">
+    @foreach (var giftCard in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@giftCard.Img" class="card-img-top" alt="@giftCard.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@giftCard.Name</h5>
+                    <p class="card-text">@giftCard.Description</p>
+                    <p class="card-text"><strong>Price: </strong>$@giftCard.Price</p>
+                    <a href="@Url.Action("View", "Home", new { slug = giftCard.Slug })" class="btn btn-info">View Details</a>
+
+                    @if (Context.Session.GetString("UserId") != null)
+                    {
+                        <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="giftCardId" value="@giftCard.Id" />
+                            <button type="submit" class="btn btn-primary">Add to Cart</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Login", "Home")" class="btn btn-primary">Add to Cart</a>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,15 @@
+﻿@model TripsLog.Models.Destination
+
+<h1>Add New Destination</h1>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Name">Destination Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<div asp-validation-summary="All" class="text-danger"></div>

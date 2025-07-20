@@ -1,0 +1,15 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\bin\Debug\net8.0\Proj4.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\bin\Debug\net8.0\Proj4.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\bin\Debug\net8.0\Proj4.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\bin\Debug\net8.0\Proj4.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\bin\Debug\net8.0\Proj4.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\refint\Proj4.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\Proj4.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj4\obj\Debug\net8.0\ref\Proj4.dll

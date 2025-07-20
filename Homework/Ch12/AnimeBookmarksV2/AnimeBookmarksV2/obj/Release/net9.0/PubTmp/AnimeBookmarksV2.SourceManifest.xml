@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Homework\Ch12\AnimeBookmarksV2\AnimeBookmarksV2\obj\Release\net9.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Homework\Ch12\AnimeBookmarksV2\AnimeBookmarksV2\obj\Release\net9.0\PubTmp\EFSQLScripts\AnimeBookmarksV2.Models.AnimeDbContext.sql" />
+</sitemanifest>

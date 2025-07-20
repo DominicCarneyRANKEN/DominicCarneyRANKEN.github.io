@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\AnimeBookmarksV2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AnimeBookmarksV2.ja4g82d6ag.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\0452c341-59b0-47c9-b988-8c1470e5d2b4.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\0452c341-59b0-47c9-b988-8c1470e5d2b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\178827b1-b929-4ccb-a011-da0ee0fa3e49.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\178827b1-b929-4ccb-a011-da0ee0fa3e49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\469b8930-131c-47c1-a72f-2c9b85160b67.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\469b8930-131c-47c1-a72f-2c9b85160b67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\4b36d351-5b3c-482b-b141-4667814672ae.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\4b36d351-5b3c-482b-b141-4667814672ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\66a9cc5a-0b31-4fd1-8731-d351d80fe5e0.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\66a9cc5a-0b31-4fd1-8731-d351d80fe5e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\718cd57c-1ef9-4048-9a3a-9c111a848412.png",
+      "PackagePath": "staticwebassets\\AnimeImages\\718cd57c-1ef9-4048-9a3a-9c111a848412.png"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\a573a94a-8ce2-4df8-9984-6d907b9feb85.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\a573a94a-8ce2-4df8-9984-6d907b9feb85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\b11bf15b-2494-4a83-95bb-46cc260ecdf2.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\b11bf15b-2494-4a83-95bb-46cc260ecdf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\b77b9725-b049-4819-85bc-81867c02fe22.png",
+      "PackagePath": "staticwebassets\\AnimeImages\\b77b9725-b049-4819-85bc-81867c02fe22.png"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\blueLock.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\blueLock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\ca255a6c-03ff-4096-afdb-b44d66954e6e.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\ca255a6c-03ff-4096-afdb-b44d66954e6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\d035bfad-0bed-4a66-9c82-f55eaa462804.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\d035bfad-0bed-4a66-9c82-f55eaa462804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\d254e067-db12-45eb-9434-5495a30f1300.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\d254e067-db12-45eb-9434-5495a30f1300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\df668466-99d1-4228-8be5-97a9e01d0c56.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\df668466-99d1-4228-8be5-97a9e01d0c56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\e46e7313-3c38-4753-93f1-fb0367a4b4ef.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\e46e7313-3c38-4753-93f1-fb0367a4b4ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\ec11959a-51bf-4a6d-a638-3ef55ab446e8.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\ec11959a-51bf-4a6d-a638-3ef55ab446e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\f2b5fe09-01b1-4f14-a577-d7a138374d02.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\f2b5fe09-01b1-4f14-a577-d7a138374d02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\fd5e8f6f-3212-4b53-85f5-9459efec090e.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\fd5e8f6f-3212-4b53-85f5-9459efec090e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\reincarnationAsASlime.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\reincarnationAsASlime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\s-l1200.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\s-l1200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\AnimeImages\\sevenWitches.jpg",
+      "PackagePath": "staticwebassets\\AnimeImages\\sevenWitches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap2\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.AnimeBookmarksV2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.AnimeBookmarksV2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.AnimeBookmarksV2.props",
+      "PackagePath": "build\\AnimeBookmarksV2.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.AnimeBookmarksV2.props",
+      "PackagePath": "buildMultiTargeting\\AnimeBookmarksV2.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.AnimeBookmarksV2.props",
+      "PackagePath": "buildTransitive\\AnimeBookmarksV2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch09\\auctions\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA365B-8CCE-4048-9502-41CFB87FB019}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T16:44:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Create.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T13:47:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auctions\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:15.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
+              "RelativeDocumentMoniker": "Auctions\\Controllers\\ListingsController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
+              "RelativeToolTip": "Auctions\\Controllers\\ListingsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:03:18.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListingVM.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\ListingVM.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\ListingVM.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\ListingVM.cs",
+              "RelativeToolTip": "Auctions\\Models\\ListingVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:58:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IListingService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\IListingService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IListingService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\IListingService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IListingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:37:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListingService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\ListingService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ListingService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\ListingService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ListingService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:03:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Comment.cs",
+              "RelativeToolTip": "Auctions\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:38:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Auctions\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:38:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Bid.cs",
+              "RelativeToolTip": "Auctions\\Models\\Bid.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:38:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Models\\Listing.cs",
+              "RelativeToolTip": "Auctions\\Models\\Listing.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:39:02.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Index.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:33:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auctions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auctions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:21.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T16:44:24.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T16:44:19.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyBids.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\MyBids.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\MyBids.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\MyBids.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\MyBids.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T14:35:35.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Views\\Listings\\Details.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:03:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBidsService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:20.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BidsService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\BidsService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\BidsService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:19.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:09:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:24:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Program.cs",
+              "RelativeDocumentMoniker": "Auctions\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH09\\Auctions\\Auctions\\Program.cs",
+              "RelativeToolTip": "Auctions\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:21:24.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AnimeBookmarksV2f" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\obj\\Release\\net9\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="AnimeBookmarksV2.Models.AnimeDbContext" description="" value="Server=tcp:animebookmarksv2dbserver.database.windows.net,1433; Initial Catalog=AnimeBookmarksV2_db; Persist Security Info=False; User ID=carneyd; Password=password123@; MultipleActiveResultSets=False; Encrypt=True; TrustServerCertificate=False; Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\AnimeBookmarksV2\\AnimeBookmarksV2\\obj\\Release\\net9\.0\\PubTmp\\EFSQLScripts\\AnimeBookmarksV2\.Models\.AnimeDbContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,28 @@
+﻿@model AnimeBookmarksV2.Models.Genre
+
+@{
+    ViewData["Title"] = "Edit Genre";
+    Layout = "_Layout";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/bootstrap2/css/bootstrap-grid.min.css" />
+
+<h1>Edit Genre</h1>
+
+<form asp-action="EditGenre" method="post">
+    <input type="hidden" asp-for="Id" /> <!-- Important: keep track of the Genre's Id -->
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Genre:</label>
+        <input type="text" class="form-control" name="Name" asp-for="Name" required />
+    </div>
+
+    <button type="submit" class="btn btn-dark mt-2">Save Changes</button>
+    <a asp-action="Genres" class="btn btn-dark mt-2">Back</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

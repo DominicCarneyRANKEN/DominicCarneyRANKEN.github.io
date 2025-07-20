@@ -1,0 +1,66 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\appsettings.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.staticwebassets.runtime.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.staticwebassets.endpoints.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.RazorAssemblyInfo.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.RazorAssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\scopedcss\bundle\Ch 02.styles.css
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.Ch 02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.Ch 02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.build.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\refint\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\Proj 2-1\Ch 02\obj\Debug\net8.0\ref\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\appsettings.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.staticwebassets.endpoints.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.staticwebassets.runtime.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\bin\Debug\net8.0\Ch 02.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.RazorAssemblyInfo.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.RazorAssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\scopedcss\bundle\Ch 02.styles.css
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.Ch 02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.Ch 02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.build.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ch 02.props
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\refint\Ch 02.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\Ch 02.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH02\Proj 2-1\Ch 02\obj\Debug\net8.0\ref\Ch 02.dll

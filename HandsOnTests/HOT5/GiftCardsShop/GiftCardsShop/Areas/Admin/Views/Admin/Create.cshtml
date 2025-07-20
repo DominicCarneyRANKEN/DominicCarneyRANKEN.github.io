@@ -1,0 +1,43 @@
+﻿@model GiftCardsShop.Models.GiftCards
+
+@{
+    ViewData["Title"] = "Create Gift Card";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create Gift Card</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input type="number" class="form-control" id="Price" name="Price" value="@Model.Price" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description" required>@Model.Description</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Img">Image URL</label>
+        <input type="text" class="form-control" id="Img" name="Img" value="@Model.Img" />
+    </div>
+
+    <div class="form-group">
+        <label for="Slug">Slug</label>
+        <input type="text" class="form-control" id="Slug" name="Slug" value="@Model.Slug" />
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+</form>
+
+<a href="@Url.Action("Index", "Admin")" class="btn btn-secondary">Back to List</a>

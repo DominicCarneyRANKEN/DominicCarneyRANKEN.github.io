@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AppointmentHOT.Models.Appointments>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Appointments</h1>
+    <p>Ongoing Appointments.</p>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Date/Time</th>
+                    <th scope="col">Customer</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var appointment in Model)
+                {
+                    <tr>
+                        <td>@appointment.AppointmentDate.ToString("MM/dd/yyyy hh:mm tt")</td>
+                        <td>@appointment.Customer.Username</td>
+                        <td>
+                            <a class="btn btn-info" href="@Url.Action("View", "Appointment", new { area = "Admin", id = appointment.Id })">View</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No appointments available at this time.</p>
+    }
+
+    <a class="btn btn-success" href="@Url.Action("CreateAppointment", "Home")">Create New Appointment</a>
+</div>

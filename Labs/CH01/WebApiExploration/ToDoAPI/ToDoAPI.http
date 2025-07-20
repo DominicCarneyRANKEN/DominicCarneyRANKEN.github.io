@@ -1,0 +1,29 @@
+﻿@ToDoAPI_HostAddress = http://localhost:5152
+
+POST {{ToDoAPI_HostAddress}}/todoItems
+Content-Type: application/json
+{
+    "name":"walk dog",
+    "isComplete":falsel
+}
+
+###
+
+GET {{ToDoAPI_HostAddress}}/todoItems
+
+###
+
+@id=0
+PUT {{ToDoAPI_HostAddress}}/todoItems/3
+Content-Type: application/json
+
+{
+  "name": "Wash the car",
+  "isComplete":true
+}
+
+###
+
+DELETE {{ToDoAPI_HostAddress}}/todoitems/2
+
+###

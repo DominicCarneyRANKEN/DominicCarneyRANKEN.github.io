@@ -1,0 +1,26 @@
+﻿@model TripsLog.Models.Accommodation
+
+<h1>Add New Accommodation</h1>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Name">Accommodation Name</label>
+        <input asp-for="Name" class="form-control" id="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Phone">Phone (Optional)</label>
+        <input asp-for="Phone" class="form-control" id="Phone" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Email">Email (Optional)</label>
+        <input asp-for="Email" class="form-control" id="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<div asp-validation-summary="All" class="text-danger"></div>

@@ -1,0 +1,63 @@
+﻿@model AnimeBookmarksV2.Models.AnimeGenreViewModel
+
+@{
+	ViewData["Title"] = "Home Page";
+	Layout = "_Layout";
+}
+
+
+
+
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/bootstrap2/css/bootstrap.min.css" />
+
+
+
+<a href="@Url.Action("Genres", "Anime", new { area = "Admin" })" class="btn btn-dark">Manage Genres</a>"
+
+<a href="@Url.Action("Create", "Anime", new { area = "Admin" })" class="btn btn-dark">Add New Anime</a>
+@* <a href="@Url.Action("ManageUsers", "Anime", new { area = "Admin" })" class="btn btn-dark">Manage Users</a> *@
+
+
+
+
+<div class="container">
+	<h1 class="text-center mb-4">Anime Bookmarks</h1>
+	<div class="row">
+		@foreach (var anime in Model.Animesv2)
+		{
+			<div class="col-md-4 mb-4">
+				<div class="card">
+					<img src="@anime.ImagePath" class="card-img-top" alt="Anime Image">
+					<div class="card-body">
+						<h5 class="card-title">@anime.Title</h5>
+						<p class="card-text">@anime.Description</p>
+						<p>
+							<strong>Genres:</strong>
+							@if (anime.AnimeGenres.Any())
+							{
+								@foreach (var genre in anime.AnimeGenres)
+								{
+									<span class="badge bg-secondary">@genre.Genre.Name</span>
+								}
+							}
+							else
+							{
+								<span class="text-muted">No genres listed</span>
+							}
+						</p>
+						
+						<a href="@Url.Action("View", "Home", new { id = anime.Id, slug = AnimeBookmarksV2.Models.Animev2.GenerateSlug(anime.Title)})"
+						   class="btn btn-dark">View</a>
+						<a href="@Url.Action("Edit", "Anime", new { Id = anime.Id, slug = AnimeBookmarksV2.Models.Animev2.GenerateSlug(anime.Title)})"
+							class="btn btn-dark">Edit</a>
+						<a href="@Url.Action("Delete", "Anime", new { Id = anime.Id, slug = AnimeBookmarksV2.Models.Animev2.GenerateSlug(anime.Title)})"
+							class="btn btn-dark">Delete</a>
+
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>

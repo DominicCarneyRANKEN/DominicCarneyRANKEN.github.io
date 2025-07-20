@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\models\\questioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\models\\questioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\migrations\\questioncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\migrations\\questioncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch06\\project 6-1\\project 6-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0C8C5C-C867-4275-88EE-70D6BEDA2FE4}|Project 6-1\\Project 6-1.csproj|solutionrelative:project 6-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\QuestionContext.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Models\\QuestionContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\QuestionContext.cs",
+              "RelativeToolTip": "Project 6-1\\Models\\QuestionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:32:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Question.cs",
+              "RelativeToolTip": "Project 6-1\\Models\\Question.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:31:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Topic.cs",
+              "RelativeToolTip": "Project 6-1\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:21:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project 6-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:37:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Program.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Program.cs",
+              "RelativeToolTip": "Project 6-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:26:14.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project 6-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project 6-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBZwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:42:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Models\\Category.cs",
+              "RelativeToolTip": "Project 6-1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:34:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Migrations\\QuestionContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Project 6-1\\Migrations\\QuestionContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Migrations\\QuestionContextModelSnapshot.cs",
+              "RelativeToolTip": "Project 6-1\\Migrations\\QuestionContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:42:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project 6-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project 6-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T19:26:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\appsettings.json",
+              "RelativeDocumentMoniker": "Project 6-1\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH06\\Project 6-1\\Project 6-1\\appsettings.json",
+              "RelativeToolTip": "Project 6-1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T19:25:52.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

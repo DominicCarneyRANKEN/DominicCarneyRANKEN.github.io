@@ -1,0 +1,35 @@
+﻿@model IEnumerable<AnimeBookmarksV2.Models.Genre>
+
+@{
+	ViewData["Title"] = "Genres";
+	Layout = "_Layout";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/bootstrap2/css/bootstrap-grid.min.css" />
+
+
+
+<h1>Manage Genres</h1>
+<a href="@Url.Action("CreateGenre", "Anime" , new { area="Admin" })" class="btn btn-dark">Add Genre</a>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Genre </th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+@foreach (var genre in Model)
+{
+			<tr>
+				<td>@genre.Name</td>
+				<td>
+					<a href="@Url.Action("EditGenre", "Anime", new { id = genre.Id })" class="btn btn-dark">Edit</a>
+					<a href="@Url.Action("DeleteGenre", "Anime", new { area = "Admin", id = genre.Id})" class="btn btn-dark">Delete</a>
+				</td>
+			</tr>
+
+}
+	</tbody>
+</table>

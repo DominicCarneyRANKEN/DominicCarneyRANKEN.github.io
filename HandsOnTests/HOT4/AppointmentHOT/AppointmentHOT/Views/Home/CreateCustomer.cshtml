@@ -1,0 +1,27 @@
+﻿@model AppointmentHOT.Models.Customer
+
+@{
+    ViewData["Title"] = "Create Customer";
+}
+
+<h2>Create Customer</h2>
+
+<form asp-action="CreateCustomer" method="post">
+    <div class="form-group">
+        <label asp-for="Username"></label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phonenumber"></label>
+        <input asp-for="Phonenumber" class="form-control" />
+        <span asp-validation-for="Phonenumber" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Customer</button>
+</form>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<a href="@Url.Action("Index", "Home")">Back to Home</a>

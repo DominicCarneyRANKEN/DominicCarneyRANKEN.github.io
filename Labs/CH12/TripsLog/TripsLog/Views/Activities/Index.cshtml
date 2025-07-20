@@ -1,0 +1,31 @@
+﻿@model IEnumerable<TripsLog.Models.Activity>
+
+@{
+    ViewData["Title"] = "Activities List";
+}
+
+<h1>Activities</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var activity in Model)
+        {
+            <tr>
+                <td>@activity.Name</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@activity.ActivityId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Activity</a>

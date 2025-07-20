@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\portfolio\\port\\port\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF439257-9FCE-4E65-8E07-0ECC575F27E5}|Port\\Port.csproj|solutionrelative:port\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:49:32.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:23:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Port\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:23:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:26:50.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Port\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Port\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:44:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Portfolio\\Port\\Port\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:04:30.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿@model AppointmentHOT.Models.Appointments
+
+@{
+    ViewData["Title"] = "Create Appointment";
+}
+
+<h1>Create Appointment</h1>
+
+<form method="post">
+    <input type="hidden" name="CustomerId" value="@Model.CustomerId" />
+
+    <div class="form-group">
+        <label for="AppointmentDate">Appointment Date/Time</label>
+        <input type="datetime-local" class="form-control" id="AppointmentDate" name="AppointmentDate"
+               value="@Model.AppointmentDate.ToString("yyyy-MM-ddTHH:mm")"/>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <button type="submit" class="btn btn-primary">Create Appointment</button>
+</form>

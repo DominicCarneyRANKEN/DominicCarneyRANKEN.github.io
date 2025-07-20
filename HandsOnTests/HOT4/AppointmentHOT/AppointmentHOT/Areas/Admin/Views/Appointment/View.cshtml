@@ -1,0 +1,20 @@
+﻿@model AppointmentHOT.Models.Appointments
+
+@{
+    ViewData["Title"] = "View Appointment";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>View Appointment</h2>
+
+<div class="form-group">
+    <label class="control-label">Appointment Date and Time</label>
+    <p>@Model.AppointmentDate.ToString("yyyy-MM-dd HH:mm")</p>
+</div>
+
+<div class="form-group">
+    <label class="control-label">Customer</label>
+    <p>@Model.Customer.Username</p>
+</div>
+
+<a href="@Url.Action("Index", "Appointment", new { area = "Admin" })" class="btn btn-secondary">Back to List</a>

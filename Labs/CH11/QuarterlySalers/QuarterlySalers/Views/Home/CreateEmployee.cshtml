@@ -1,0 +1,49 @@
+﻿@model QuarterlySalers.Models.Employee
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<h2>Create Employee</h2>
+
+<form asp-action="CreateEmployee" method="post">
+    <div class="form-group">
+        <label asp-for="Firstname"></label>
+        <input asp-for="Firstname" class="form-control" />
+        <span asp-validation-for="Firstname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Lastname"></label>
+        <input asp-for="Lastname" class="form-control" />
+        <span asp-validation-for="Lastname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DOB"></label>
+        <input asp-for="DOB" class="form-control" type="date" />
+        <span asp-validation-for="DOB" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DateOfHire"></label>
+        <input asp-for="DateOfHire" class="form-control" type="date" />
+        <span asp-validation-for="DateOfHire" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ManagerId"></label>
+        <select asp-for="ManagerId" class="form-control">
+            <option value="">Select Manager</option>
+            @foreach (var manager in ViewData["Employees"] as SelectList)
+            {
+                <option value="@manager.Value">@manager.Text</option>
+            }
+        </select>
+        <span asp-validation-for="ManagerId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Employee</button>
+</form>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<a href="@Url.Action("Index", "Home")">Back to Home</a>

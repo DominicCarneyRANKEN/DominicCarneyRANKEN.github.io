@@ -1,0 +1,9 @@
+﻿@CarInventory_HostAddress = https://localhost:7199
+
+GET {{CarInventory_HostAddress}}/cars
+
+###
+
+GET {{CarInventory_HostAddress}}/cars/{id}
+
+###

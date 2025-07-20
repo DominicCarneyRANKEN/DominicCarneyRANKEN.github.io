@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|solutionrelative:todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|solutionrelative:todo\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|solutionrelative:todo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDos/True/SqlTable/dbo.Statuses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch10\\todoapp\\todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E682E09-FCD4-416E-844F-3A4C45CFD710}|ToDo\\ToDo.csproj|solutionrelative:todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Migrations\\20250307162812_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDo\\Migrations\\20250307162812_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "ToDo\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T19:52:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDo\\Models\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:31:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\Status.cs",
+              "RelativeToolTip": "ToDo\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:31:37.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T19:00:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ToDo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T18:58:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ToDo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ToDo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:24:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\Filters.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\Filters.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\Filters.cs",
+              "RelativeToolTip": "ToDo\\Models\\Filters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:36:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Statuses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDos/True/SqlTable/dbo.Statuses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDos/True/SqlTable/dbo.Statuses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-07T17:16:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDo\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\appsettings.json",
+              "RelativeToolTip": "ToDo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T16:17:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250307162812_init.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Migrations\\20250307162812_init.cs",
+              "RelativeDocumentMoniker": "ToDo\\Migrations\\20250307162812_init.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Migrations\\20250307162812_init.cs",
+              "RelativeToolTip": "ToDo\\Migrations\\20250307162812_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:28:12.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH10\\ToDoApp\\ToDo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ToDo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:45:50.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

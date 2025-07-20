@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\views\\home\\createappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\views\\home\\createappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot4\\appointmenthot\\appointmenthot\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C75A5F-198C-438D-932A-4C64CB689C01}|AppointmentHOT\\AppointmentHOT.csproj|solutionrelative:appointmenthot\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Views\\Home\\CreateAppointment.cshtml",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Views\\Home\\CreateAppointment.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Views\\Home\\CreateAppointment.cshtml",
+              "RelativeToolTip": "AppointmentHOT\\Views\\Home\\CreateAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:59:01.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "AppointmentHOT\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:58:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Models\\Customer.cs",
+              "RelativeToolTip": "AppointmentHOT\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:12:31.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Models\\Appointments.cs",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Models\\Appointments.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Models\\Appointments.cs",
+              "RelativeToolTip": "AppointmentHOT\\Models\\Appointments.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:12:28.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppointmentHOT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:12:11.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AppointmentHOT\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT4\\AppointmentHOT\\AppointmentHOT\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AppointmentHOT\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:12:05.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

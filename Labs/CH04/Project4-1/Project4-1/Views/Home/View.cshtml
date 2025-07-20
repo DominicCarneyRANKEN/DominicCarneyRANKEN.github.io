@@ -1,0 +1,27 @@
+﻿@model Contact
+
+<h2>Contact Details</h2>
+
+<div>
+    <strong>First Name:</strong> @Model.FirstName
+</div>
+<div>
+    <strong>Last Name:</strong> @Model.LastName
+</div>
+<div>
+    <strong>Phone Number:</strong> @Model.PhoneNumber
+</div>
+<div>
+    <strong>Email:</strong> @Model.Email
+</div>
+<div>
+    <strong>Category:</strong> @Model.Category?.Name
+</div>
+
+<div>
+    <strong>Date Added:</strong> @Model.DateAdded.ToString("MM/dd/yyyy")
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+<a asp-action="Edit" asp-route-id="@Model.ContactId" class="btn btn-warning">Edit</a>
+<a asp-action="Delete" asp-route-id="@Model.ContactId" class="btn btn-danger">Delete</a>

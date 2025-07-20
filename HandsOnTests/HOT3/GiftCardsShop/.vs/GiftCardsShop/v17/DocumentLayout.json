@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\giftcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\giftcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\giftcarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\giftcarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\cards\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\cards\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\cards\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\cards\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\cards\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\cards\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\cards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\cards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\giftcardsboss\\admin\\views\\cards\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\giftcardsboss\\admin\\views\\cards\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\models\\sessionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\models\\sessionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\migrations\\20250302213215_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\migrations\\20250302213215_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot3\\giftcardsshop\\giftcardsshop\\migrations\\20250302211300_addedcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F6854B-F1AF-4D4E-BE68-D32CA30E3CDD}|GiftCardsShop\\GiftCardsShop.csproj|solutionrelative:giftcardsshop\\migrations\\20250302211300_addedcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\View.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Home\\View.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\View.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Home\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T20:05:18.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:50:01.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:50:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Program.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Program.cs",
+              "RelativeToolTip": "GiftCardsShop\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:58:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:52:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:52:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T21:05:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\Orders.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:52:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiftCards.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\GiftCards.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\GiftCards.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\GiftCards.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\GiftCards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:39:10.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GiftCardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\GiftCardDbContext.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\GiftCardDbContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\GiftCardDbContext.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\GiftCardDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:11:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\CartItems.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\CartItems.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\CartItems.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:52:12.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:32:47.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:26:25.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Create.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:42:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Delete.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:42:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Edit.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:42:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:41:42.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GiftCardsShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:03:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GiftCardsShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:52:11.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml.cs",
+              "RelativeToolTip": "GiftCardsShop\\GiftCardsBoss\\Admin\\Views\\Cards\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:47:10.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:28:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\SessionsExtensions.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Models\\SessionsExtensions.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Models\\SessionsExtensions.cs",
+              "RelativeToolTip": "GiftCardsShop\\Models\\SessionsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:50:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250302213215_AddOrders.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Migrations\\20250302213215_AddOrders.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Migrations\\20250302213215_AddOrders.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Migrations\\20250302213215_AddOrders.cs",
+              "RelativeToolTip": "GiftCardsShop\\Migrations\\20250302213215_AddOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:32:15.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250302211300_AddedCarts.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Migrations\\20250302211300_AddedCarts.cs",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Migrations\\20250302211300_AddedCarts.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Migrations\\20250302211300_AddedCarts.cs",
+              "RelativeToolTip": "GiftCardsShop\\Migrations\\20250302211300_AddedCarts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:13:00.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GiftCardsShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GiftCardsShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:52:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\appsettings.json",
+              "RelativeDocumentMoniker": "GiftCardsShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT3\\GiftCardsShop\\GiftCardsShop\\appsettings.json",
+              "RelativeToolTip": "GiftCardsShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T14:48:43.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99120398-E0ED-476A-8838-48F7BFCFB37E}|Distance\\Distance.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\distance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99120398-E0ED-476A-8838-48F7BFCFB37E}|Distance\\Distance.csproj|solutionrelative:distance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot1\\distance\\orderform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8022C523-3775-4885-B3D6-F50CB38E3B25}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrderForm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrderForm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:26:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OrderForm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OrderForm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T22:25:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OrderForm\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OrderForm\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T22:25:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OrderForm\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OrderForm\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T22:25:55.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderForm\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Models\\Order.cs",
+              "RelativeToolTip": "OrderForm\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:25:52.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OrderForm\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OrderForm\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T22:25:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrderForm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\OrderForm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OrderForm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:56:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\Distance\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Distance\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT1\\Distance\\Distance\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Distance\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T10:26:35.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

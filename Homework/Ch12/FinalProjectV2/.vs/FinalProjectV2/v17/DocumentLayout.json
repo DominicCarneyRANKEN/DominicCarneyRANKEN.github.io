@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\FinalProjectV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB350F-0DAE-41C6-A9C0-F332DA16B199}|FinalProjectV2\\FinalProjectV2.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch12\\finalprojectv2\\finalprojectv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AB350F-0DAE-41C6-A9C0-F332DA16B199}|FinalProjectV2\\FinalProjectV2.csproj|solutionrelative:finalprojectv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\FinalProjectV2\\FinalProjectV2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalProjectV2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch12\\FinalProjectV2\\FinalProjectV2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalProjectV2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:13:57.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

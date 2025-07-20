@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" />
+<nav class="navbar navbar-expand-lg navbar-dark bg-info">
+    <div class="container-fluid">
+        <h2>Frequently Asked Questions</h2>
+        <ul class="navbar-nav ml-auto">
+     
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Index", "Home")">All FAQs</a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Index", "Home", new { category = "general" })">General</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Index", "Home", new { category = "history" })">History</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-3">
+           
+            <div class="list-group">
+                <h4>Topics</h4>
+                <a href="@Url.Action("Index", "Home", new { topic = "bootstrap" })" class="list-group-item list-group-item-action">Bootstrap</a>
+                <a href="@Url.Action("Index", "Home", new { topic = "c#" })" class="list-group-item list-group-item-action">C#</a>
+                <a href="@Url.Action("Index", "Home", new { topic = "javascript" })" class="list-group-item list-group-item-action">JavaScript</a>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            <h3>FAQs</h3>
+            <ul class="list-group">
+                @foreach (var faq in Model)
+                {
+                    <li class="list-group-item">
+                        <strong>@faq.QuestionText</strong>
+                        <p>@faq.Response</p>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>

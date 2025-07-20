@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Project8n1.Models.Trip>
+
+@{
+    ViewData["Title"] = "Trips Index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a href="@Url.Action("AddTrip", "Trips")" class="btn btn-primary">Add a New Trip</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Destination</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trip in Model)
+            {
+                <tr>
+                    <td>@trip.Destination</td>
+                    <td>@trip.StartDate?.ToString("MM/dd/yyyy")</td>
+                    <td>@trip.EndDate?.ToString("MM/dd/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No trips available.</p>
+}

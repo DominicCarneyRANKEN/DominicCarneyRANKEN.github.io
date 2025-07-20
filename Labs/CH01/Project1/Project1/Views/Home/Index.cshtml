@@ -1,0 +1,27 @@
+﻿@model FutureValueModel
+@{
+	Layout = "_Layout";
+}
+	<h1>Future Value Calculator</h1>
+	<form asp-action="Index" method="post">
+		<div asp-validation-summary="All" class="text-danger"></div>
+		<div>
+			<label asp-for="MonthlyInvestment" class="form-label">Monthly Investment</label>
+			<input asp-for="MonthlyInvestment" class="form-control"/>
+		</div>
+		<div>
+			<label asp-for="YearlyInterestRate" class="form-label">Yearly Interest Rate</label>
+			<input asp-for="YearlyInterestRate" class="form-control"/>
+		</div>
+		<div>
+			<label asp-for="Years" class="form-label">Number of Years</label>
+			<input asp-for="Years" class="form-control"/>
+		</div>
+		<div>
+			<label class="form-label">Future Value</label>
+			<input class="form-control" value="@ViewBag.FV.ToString("C")" readonly />
+		</div>
+
+		<button type="submit" class="btn btn-primary">Calculate</button>
+		<a asp-action="Index" class="btn btn-secondary">Clear</a>
+	</form>

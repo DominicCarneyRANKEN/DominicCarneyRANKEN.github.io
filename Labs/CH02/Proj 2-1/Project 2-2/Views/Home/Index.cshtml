@@ -1,0 +1,35 @@
+﻿@model Project_2_2.Models.Calculator
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html>
+	<head>
+		<body>
+			<h1>Tip Calculator</h1>
+        <form asp-action="Index" method="post">
+            <div>
+                <label asp-for="MealCost">Meal Cost:</label>
+                <input asp-for="MealCost" />
+                <span asp-validation-for="MealCost" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label>Tip (15%):</label>
+                <label>@Model?.Tip15Percent.ToString("C")</label>
+            </div>
+            <div>
+                <label>Tip (20%):</label>
+                <label>@Model?.Tip20Percent.ToString("C")</label>
+            </div>
+            <div>
+                <label>Tip (25%):</label>
+                <label>@Model?.Tip25Percent.ToString("C")</label>
+            </div>
+
+            <button type="submit">Calculate</button>
+            <a asp-action="Index">Clear</a>
+        </form>
+		</body>
+	</head>
+</html>

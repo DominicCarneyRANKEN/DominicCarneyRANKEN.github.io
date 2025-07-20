@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\trips\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\trips\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\trips\\addtrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\trips\\addtrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\trips\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\trips\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\trips\\addactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\trips\\addactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\models\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\models\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\migrations\\20250224030240_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\migrations\\20250224030240_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch08\\project8n1\\project8n1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FFE1652-7E3F-4BD5-A46E-D5F97FD525C8}|Project8n1\\Project8n1.csproj|solutionrelative:project8n1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project8n1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:30:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Program.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Program.cs",
+              "RelativeToolTip": "Project8n1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:35:30.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\appsettings.json",
+              "RelativeDocumentMoniker": "Project8n1\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\appsettings.json",
+              "RelativeToolTip": "Project8n1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T02:35:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project8n1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:40:40.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Trips\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\Cancel.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Trips\\Cancel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T03:06:17.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTrip.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddTrip.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Trips\\AddTrip.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddTrip.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Trips\\AddTrip.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T03:05:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddAccommodation.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddAccommodation.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Trips\\AddAccommodation.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddAccommodation.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Trips\\AddAccommodation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T03:05:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddActivity.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddActivity.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Trips\\AddActivity.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Trips\\AddActivity.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Trips\\AddActivity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T03:06:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:41:55.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\TripViewModel.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Models\\TripViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\TripViewModel.cs",
+              "RelativeToolTip": "Project8n1\\Models\\TripViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:30:14.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Accommodation.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Models\\Accommodation.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Accommodation.cs",
+              "RelativeToolTip": "Project8n1\\Models\\Accommodation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:29:36.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Activity.cs",
+              "RelativeToolTip": "Project8n1\\Models\\Activity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:29:54.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Models\\Trip.cs",
+              "RelativeToolTip": "Project8n1\\Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:29:03.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:50:44.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:41:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "Project8n1\\Controllers\\TripsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwF8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:32:46.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250224030240_Init.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Migrations\\20250224030240_Init.cs",
+              "RelativeDocumentMoniker": "Project8n1\\Migrations\\20250224030240_Init.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Migrations\\20250224030240_Init.cs",
+              "RelativeToolTip": "Project8n1\\Migrations\\20250224030240_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:02:40.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:50:49.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project8n1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH08\\Project8n1\\Project8n1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project8n1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:50:47.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

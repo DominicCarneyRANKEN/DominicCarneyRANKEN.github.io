@@ -1,0 +1,16 @@
+﻿@model AnimeBookmarksV2.Models.GenreSelectionViewModel
+
+<form asp-action="SelectGenres" method="post">
+     <input type="hidden" asp-for="AnimeId" />
+     <div class="form-group">
+         <label>Select Genres</label>
+        @foreach (var genre in Model.AllGenres)
+        {
+                 <div class="form-check">
+                     <input class="form-check-input" type="checkbox" name="SelectedGenreIds" value="@genre.Id" />
+                     <label class="form-check-label">@genre.Name</label>
+                 </div>
+        }
+     </div>
+     <button type="submit" class="btn btn-success">Save Genres</button>
+</form>

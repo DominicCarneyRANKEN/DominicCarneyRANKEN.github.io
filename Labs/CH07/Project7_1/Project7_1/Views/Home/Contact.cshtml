@@ -1,0 +1,13 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h2>Contact Information</h2>
+<ul>
+    @foreach (var contact in Model)
+    {
+        <li>@contact.Name - @contact.Email</li>
+    }
+</ul>

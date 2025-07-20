@@ -1,0 +1,52 @@
+﻿@model TripsLog.Models.Trip
+
+@{
+    ViewData["Title"] = "Create Trip";
+}
+
+<h1>Create Trip</h1>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="DestinationId">Destination</label>
+        <select asp-for="DestinationId" asp-items="ViewBag.Destinations" class="form-control">
+            <option value="0">Select a Destination</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AccommodationId">Accommodation</label>
+        <select asp-for="AccommodationId" asp-items="ViewBag.Accommodations" class="form-control">
+            <option value="0">Select an Accommodation</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StartDate">Start Date</label>
+        <input asp-for="StartDate" class="form-control" type="date" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EndDate">End Date</label>
+        <input asp-for="EndDate" class="form-control" type="date" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name">Trip Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="TripActivities">Trip Activities</label>
+        <select asp-for="TripActivities" asp-items="ViewBag.Activities" class="form-control" multiple></select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<div asp-validation-summary="All" class="text-danger"></div>

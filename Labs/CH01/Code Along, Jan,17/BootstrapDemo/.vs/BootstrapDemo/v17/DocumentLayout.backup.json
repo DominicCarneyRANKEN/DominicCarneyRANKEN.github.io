@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\bootstrapdemo\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\bootstrapdemo\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\bootstrapdemo\\demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{00EADF98-B13E-4A5B-A326-6F5B2AE06411}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fontawesome.css",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+              "RelativeDocumentMoniker": "Demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+              "RelativeToolTip": "Demo\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T17:04:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:32:40.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\BootstrapDemo\\Demo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:32:02.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

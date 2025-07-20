@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\migrations\\customercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\migrations\\customercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\utility\\allowedextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\utility\\allowedextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\ch11 code along\\validation\\validation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0145146-D318-4026-A9E5-59ACB97A2262}|Validation\\Validation.csproj|solutionrelative:validation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Migrations\\CustomerContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Validation\\Migrations\\CustomerContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Migrations\\CustomerContextModelSnapshot.cs",
+              "RelativeToolTip": "Validation\\Migrations\\CustomerContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:52:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllowedExtensionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Utility\\AllowedExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "Validation\\Utility\\AllowedExtensionAttribute.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Utility\\AllowedExtensionAttribute.cs",
+              "RelativeToolTip": "Validation\\Utility\\AllowedExtensionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:28:42.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T15:28:40.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T15:28:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T15:28:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Validation\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\Customer.cs",
+              "RelativeToolTip": "Validation\\Models\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:27:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "Validation\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\CustomerContext.cs*",
+              "RelativeToolTip": "Validation\\Models\\CustomerContext.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:27:34.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Validation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Validation\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:27:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\appsettings.json",
+              "RelativeDocumentMoniker": "Validation\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\appsettings.json",
+              "RelativeToolTip": "Validation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T16:19:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Program.cs",
+              "RelativeDocumentMoniker": "Validation\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Ch11 Code Along\\Validation\\Validation\\Program.cs",
+              "RelativeToolTip": "Validation\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:19:09.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AnimeBookmarksV2.props" />
+</Project>

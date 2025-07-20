@@ -1,0 +1,40 @@
+﻿@model IEnumerable<GiftCardsShop.Models.GiftCards>
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";  
+}
+
+
+@{
+    ViewData["Title"] = "Admin - Gift Cards";
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<h2>Gift Cards</h2>
+
+<p>
+    <a class="btn btn-primary" href="@Url.Action("Create", "Admin")">Create New Gift Card</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var giftCard in Model)
+        {
+            <tr>
+                <td>@giftCard.Name</td>
+                <td>@giftCard.Price</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Admin", new { id = giftCard.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "Admin", new { id = giftCard.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TripsLog.Models.Trip>
+
+@{
+    ViewData["Title"] = "Trips List";
+}
+
+<h1>Trips</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Destination</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Activities</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trip in Model)
+        {
+            <tr>
+                <td>@trip.Destination?.Name</td>
+                <td>@trip.StartDate.ToString("MM/dd/yyyy")</td>
+                <td>@trip.EndDate.ToString("MM/dd/yyyy")</td>
+                <td>
+                    @foreach (var activity in trip.TripActivities)
+                    {
+                        <span>@activity.Activity.Name</span>
+
+                        <br />
+                    }
+                </td>
+
+                <td>
+                    <a asp-action="Delete" asp-route-id="@trip.TripId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Trip</a>

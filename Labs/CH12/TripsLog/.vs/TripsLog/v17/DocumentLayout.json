@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.TripActivities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\trips\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\trips\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\trips\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\trips\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.Activities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\tripactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\tripactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.Trips.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\activities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\activities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\accommodations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\accommodations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\accommodations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\accommodations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\activities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\activities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\trips\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\trips\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\destinations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\destinations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\destinations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\destinations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\activities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\activities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\views\\accommodations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\accommodations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch12\\tripslog\\tripslog\\controllers\\accommodationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1854087B-70B5-4429-A807-4E4DE134C717}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\controllers\\accommodationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Index.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Trips\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Index.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Trips\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T01:41:50.91Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "TripsLog\\Controllers\\DestinationsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wDMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:15:10.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "TripsLog\\Controllers\\TripsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwF0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:40.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.TripActivities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.TripActivities.sql",
+              "ToolTip": "dbo.TripActivities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-07T15:52:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Trip.cs",
+              "RelativeToolTip": "TripsLog\\Models\\Trip.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Activities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.Activities.sql",
+              "ToolTip": "dbo.Activities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-07T15:53:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripActivity.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripActivity.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\TripActivity.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripActivity.cs",
+              "RelativeToolTip": "TripsLog\\Models\\TripActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:55.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripViewModel.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\TripViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripViewModel.cs",
+              "RelativeToolTip": "TripsLog\\Models\\TripViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:23:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\TripContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\TripContext.cs",
+              "RelativeToolTip": "TripsLog\\Models\\TripContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:23:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Trips [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TripsTwo/True/SqlTable/dbo.Trips.sql",
+              "ToolTip": "dbo.Trips [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-07T15:49:03.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Index.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Activities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Index.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Activities\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:26.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Index.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Accommodations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Index.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Accommodations\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:35:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Create.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Activities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Create.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Activities\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:21.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Create.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Accommodations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Create.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Accommodations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Trips\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Delete.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Trips\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Index.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Destinations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Index.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Destinations\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:33.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Create.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Destinations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Create.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Destinations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Destinations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Destinations\\Delete.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Destinations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:16:46.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Activities\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Activities\\Delete.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Activities\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Accommodations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Accommodations\\Delete.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Accommodations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:15.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TripsLog\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Destination.cs",
+              "RelativeToolTip": "TripsLog\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:50.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Accommodation.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\Accommodation.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Models\\Accommodation.cs",
+              "RelativeToolTip": "TripsLog\\Models\\Accommodation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:49.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TripsLog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:37.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccommodationsController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\AccommodationsController.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Controllers\\AccommodationsController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Controllers\\AccommodationsController.cs",
+              "RelativeToolTip": "TripsLog\\Controllers\\AccommodationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:22:19.311Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c1a6abc9-472a-498f-b4bd-d4157e125195",
+        "Display": 0,
+        "X": 449,
+        "Y": 434,
+        "Width": 733,
+        "Height": 457,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Create.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Trips\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH12\\TripsLog\\TripsLog\\Views\\Trips\\Create.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Trips\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:23:52.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

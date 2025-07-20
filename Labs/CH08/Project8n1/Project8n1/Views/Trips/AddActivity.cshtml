@@ -1,0 +1,23 @@
+﻿@model Project8n1.Models.Activity
+
+@{
+    ViewBag.Title = "Add Activity";
+}
+
+<h2>@ViewBag.SubHeader</h2>
+
+<form asp-action="AddActivity" method="post">
+    <div class="form-group">
+        <label for="ActivityName">Activity Name</label>
+        <input type="text" class="form-control" id="ActivityName" name="ActivityName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Activity</button>
+</form>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back to List</a>

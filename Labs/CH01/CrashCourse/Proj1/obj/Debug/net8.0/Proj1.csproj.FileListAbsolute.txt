@@ -1,0 +1,15 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\bin\Debug\net8.0\Proj1.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\bin\Debug\net8.0\Proj1.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\bin\Debug\net8.0\Proj1.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\bin\Debug\net8.0\Proj1.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\bin\Debug\net8.0\Proj1.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\refint\Proj1.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\Proj1.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj1\obj\Debug\net8.0\ref\Proj1.dll

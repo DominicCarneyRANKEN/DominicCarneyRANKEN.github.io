@@ -1,0 +1,15 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\bin\Debug\net8.0\Proj8.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\bin\Debug\net8.0\Proj8.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\bin\Debug\net8.0\Proj8.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\bin\Debug\net8.0\Proj8.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\bin\Debug\net8.0\Proj8.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\refint\Proj8.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\Proj8.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj8\obj\Debug\net8.0\ref\Proj8.dll

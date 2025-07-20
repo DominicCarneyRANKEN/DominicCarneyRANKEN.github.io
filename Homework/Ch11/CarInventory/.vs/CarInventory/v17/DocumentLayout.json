@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch11\\carinventory\\carinventory\\carinventory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\carinventory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch11\\carinventory\\carinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch11\\carinventory\\carinventory\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch11\\carinventory\\carinventory\\cardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\cardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch11\\carinventory\\carinventory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A660FF-5F1D-47BE-A913-1CC7C29E150D}|CarInventory\\CarInventory.csproj|solutionrelative:carinventory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDB.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarDB.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarDB.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarDB.cs",
+              "RelativeToolTip": "CarInventory\\CarDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:37:26.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarDTO.cs",
+              "RelativeDocumentMoniker": "CarInventory\\CarDTO.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarDTO.cs",
+              "RelativeToolTip": "CarInventory\\CarDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:37:58.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarInventory.http",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarInventory.http",
+              "RelativeDocumentMoniker": "CarInventory\\CarInventory.http",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\CarInventory.http",
+              "RelativeToolTip": "CarInventory\\CarInventory.http",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-14T16:09:06.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\Car.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Car.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\Car.cs",
+              "RelativeToolTip": "CarInventory\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:33:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\Program.cs",
+              "RelativeDocumentMoniker": "CarInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch11\\CarInventory\\CarInventory\\Program.cs",
+              "RelativeToolTip": "CarInventory\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:25:19.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

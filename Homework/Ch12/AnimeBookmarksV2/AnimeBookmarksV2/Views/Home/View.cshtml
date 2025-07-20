@@ -1,0 +1,21 @@
+﻿@model AnimeBookmarksV2.Models.Animev2
+
+	<h1 class="text-center mb-4">Anime Details</h1>
+	<div class="card">
+		<img src="@Model.ImagePath" class="card-img-top" alt="Anime Image" />
+			<div class="card-body">
+				<h5 class="card-title">@Model.Title</h5>
+				<p class="card-text"><strong>Description:</strong>@Model.Description</p>
+				<p><strong>Genres:</strong>@if(Model.AnimeGenres != null && Model.AnimeGenres.Any())
+					{
+						@foreach(var genre in Model.AnimeGenres){
+							<span class="badge bg-secondary">@genre.Genre.Name</span>
+						}
+					}else
+					{
+						<span class="text-muted">No genres listed</span>
+					}
+					</p>
+				<a href="@Url.Action("Index", "Home")" class="btn btn-dark">Back to Anime Bookmarks</a>
+			</div>
+	</div>

@@ -1,0 +1,45 @@
+﻿@{
+    @model List<SalesOrder.Models.Product>
+
+}
+
+<div class="text-center">
+    <h1>Product List</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Short Description</th>
+                <th>Long Description</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>@product.ProductDescShort</td>
+                    <td>@product.ProductDescLong</td>
+                    <td>
+                       
+                        <img src="@product.ProductImage" alt="@product.ProductName" style="max-width: 100px; max-height: 100px;" />
+                    </td>
+                    <td>@product.ProductPrice.ToString("C")</td>
+                    <td>@product.ProductQty</td>
+                    <td>@product.Category.CategoryName</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@product.ProductID" class="btn btn-primary">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@product.ProductID" class="btn btn-primary">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("Add")" class="btn btn-success">Add New Product</a>
+</div>

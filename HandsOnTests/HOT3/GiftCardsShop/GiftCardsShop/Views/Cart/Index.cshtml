@@ -1,0 +1,49 @@
+﻿@model GiftCardsShop.Models.CartViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Your Cart</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+@if (Model.CartItems.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Gift Card</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                <tr>
+                    <td>@item.GiftCard.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.GiftCard.Price * item.Quantity)</td>
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", "Cart", new { giftCardId = item.GiftCardId })">Remove</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Total: @(Model.CartItems.Sum(item => item.GiftCard.Price * item.Quantity))</h3>
+    <a href="@Url.Action("Checkout", "Cart")" class="btn btn-primary">Proceed to Checkout</a>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Continue Shopping</a>
+}

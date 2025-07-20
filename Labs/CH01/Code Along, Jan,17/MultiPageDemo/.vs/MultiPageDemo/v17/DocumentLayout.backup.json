@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\models\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\models\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch01\\code along, jan,17\\multipagedemo\\mysite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AA70487-22A5-471B-A528-A37EDAD37BE7}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subtraction.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Models\\Subtraction.cs",
+              "RelativeDocumentMoniker": "MySite\\Models\\Subtraction.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Models\\Subtraction.cs",
+              "RelativeToolTip": "MySite\\Models\\Subtraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:07:12.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Subtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Subtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Subtraction\\Index.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Subtraction\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:01:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\SubtractionController.cs",
+              "RelativeDocumentMoniker": "MySite\\Controllers\\SubtractionController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\SubtractionController.cs",
+              "RelativeToolTip": "MySite\\Controllers\\SubtractionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:00:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Addition\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Addition\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Addition\\Index.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Addition\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:37:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:18:55.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdditionController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\AdditionController.cs",
+              "RelativeDocumentMoniker": "MySite\\Controllers\\AdditionController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\AdditionController.cs",
+              "RelativeToolTip": "MySite\\Controllers\\AdditionController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:35:41.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MySite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MySite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:20:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Models\\Addition.cs",
+              "RelativeDocumentMoniker": "MySite\\Models\\Addition.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Models\\Addition.cs",
+              "RelativeToolTip": "MySite\\Models\\Addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:43:19.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:34:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH01\\Code Along, Jan,17\\MultiPageDemo\\MySite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MySite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:23:12.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

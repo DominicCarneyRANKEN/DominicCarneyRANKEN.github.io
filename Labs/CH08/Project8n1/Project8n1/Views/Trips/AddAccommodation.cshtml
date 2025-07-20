@@ -1,0 +1,28 @@
+﻿@model Project8n1.Models.Accommodation
+
+@{
+    ViewBag.Title = "Add Accommodation";
+}
+
+<h2>@ViewBag.SubHeader</h2>
+
+<form asp-action="AddAccommodation" method="post">
+    <div class="form-group">
+        <label for="HotelName">Hotel Name</label>
+        <input type="text" class="form-control" id="HotelName" name="HotelName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Phone">Phone</label>
+        <input type="text" class="form-control" id="Phone" name="Phone" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Accommodation</button>
+</form>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back to List</a>

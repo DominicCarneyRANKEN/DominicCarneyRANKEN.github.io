@@ -1,0 +1,63 @@
+﻿@model IEnumerable<QuarterlySalers.Models.Sales>
+@{
+    ViewData["Title"] = "Quarterly Sales";
+}
+
+@* Lab Completed *@
+
+<div class="text-center">
+    <h1 class="display-4">Quarterly Sales</h1>
+    <p>Use the dropdown to filter by employee.</p>
+
+    @if (ViewData["Employees"] == null)
+    {
+        <p>Error: Employees data is not available.</p>
+    }
+    else
+    {
+        <form method="get">
+            <div class="form-group">
+                <label for="EmployeeId">Select Employee</label>
+                <select name="employeeId" class="form-control" asp-items="@(ViewData["Employees"] as SelectList)">
+                    <option value="">All Employees</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+    }
+
+    <h3>Sales Data</h3>
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Employee</th>
+                    <th>Quarter</th>
+                    <th>Year</th>
+                    <th>Sales Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var sale in Model)
+                {
+                    <tr>
+                        <td>@(sale.Employee?.Firstname) @sale.Employee?.Lastname</td>
+                        <td>@sale.Quarter</td>
+                        <td>@sale.Year</td>
+                        <td>@sale.Amount.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h3>Total Sales</h3>
+        <p>
+            Total Sales Amount: @Model.Sum(sale => sale.Amount).ToString("C")
+        </p>
+    }
+    else
+    {
+        <p>No sales data available.</p>
+    }
+</div>

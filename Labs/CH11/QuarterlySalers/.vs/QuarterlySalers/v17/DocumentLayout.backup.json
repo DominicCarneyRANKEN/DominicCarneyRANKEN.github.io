@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\pastdateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\noselfmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\noselfmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\hiredatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\hiredatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\views\\home\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\views\\home\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\views\\home\\createsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\views\\home\\createsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch11\\quarterlysalers\\quarterlysalers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C8C2F4-F1CE-423D-8F96-270E4DDFF41D}|QuarterlySalers\\QuarterlySalers.csproj|solutionrelative:quarterlysalers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HireDateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\HireDateValidation.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\HireDateValidation.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\HireDateValidation.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\HireDateValidation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:43:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PastDateAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\PastDateAttribute.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\PastDateAttribute.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\PastDateAttribute.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\PastDateAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:44:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoSelfManager.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\NoSelfManager.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\NoSelfManager.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\NoSelfManager.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\NoSelfManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:43:51.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\Employee.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\Employee.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:43:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:43:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Models\\Sales.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Models\\Sales.cs",
+              "RelativeToolTip": "QuarterlySalers\\Models\\Sales.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:44:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\appsettings.json",
+              "RelativeDocumentMoniker": "QuarterlySalers\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\appsettings.json",
+              "RelativeToolTip": "QuarterlySalers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T15:28:50.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\CreateSales.cshtml",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Views\\Home\\CreateSales.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\CreateSales.cshtml",
+              "RelativeToolTip": "QuarterlySalers\\Views\\Home\\CreateSales.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:21:50.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuarterlySalers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:34:51.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Program.cs",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Program.cs",
+              "RelativeToolTip": "QuarterlySalers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:28:42.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuarterlySalers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:42:36.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\CreateEmployee.cshtml",
+              "RelativeDocumentMoniker": "QuarterlySalers\\Views\\Home\\CreateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH11\\QuarterlySalers\\QuarterlySalers\\Views\\Home\\CreateEmployee.cshtml",
+              "RelativeToolTip": "QuarterlySalers\\Views\\Home\\CreateEmployee.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:42:35.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

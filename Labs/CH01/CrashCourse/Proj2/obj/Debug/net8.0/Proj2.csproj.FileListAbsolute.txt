@@ -1,0 +1,15 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\bin\Debug\net8.0\Proj2.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\bin\Debug\net8.0\Proj2.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\bin\Debug\net8.0\Proj2.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\bin\Debug\net8.0\Proj2.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\bin\Debug\net8.0\Proj2.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\refint\Proj2.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\Proj2.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj2\obj\Debug\net8.0\ref\Proj2.dll

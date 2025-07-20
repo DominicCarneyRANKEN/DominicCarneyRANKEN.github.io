@@ -1,0 +1,32 @@
+﻿@model AnimeBookmarksV2.Models.SignUpViewModel
+@{
+	ViewData["Title"] = "SignUp";
+}
+
+<h2>Sign Up</h2>
+
+<form method="post" asp-action="SignUp">
+	<div class="mb-3">
+		<label for="Username" class="form-label">Username</label>
+		<input type="text" class="form-control" id="Username" asp-for="Username" />
+	</div>
+
+	<div class="mb-3">
+		<label for="Email" class="form-label">Email</label>
+		<input type="email" class="form-control" id="Email" asp-for="Email" />
+	</div>
+
+	<div class="mb-3">
+		<label for="Password" class="form-label">Password</label>
+		<input type="password" class="form-control" id="Password" asp-for="Password" />
+	</div>
+
+	<button type="submit" class="btn btn-dark">Sign Up</button>
+</form>
+
+@if (TempData["ErrorMessage"] != null)
+{
+	<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<div asp-validation-summary="All" class="text-danger"></div>

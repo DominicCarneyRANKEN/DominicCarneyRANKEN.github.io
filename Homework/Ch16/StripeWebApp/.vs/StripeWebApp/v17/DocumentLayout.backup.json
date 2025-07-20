@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StripePay/True/SqlTable/dbo.Items.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\homework\\ch16\\stripewebapp\\stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F1C7AA-70DB-4733-A50C-E0ED1FAE4029}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Models\\Item.cs",
+              "RelativeToolTip": "StripeWebApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:54:23.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StripeWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StripeWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T22:42:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T21:14:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "StripeWebApp\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:13:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Program.cs",
+              "RelativeToolTip": "StripeWebApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:04:43.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StripeWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\appsettings.json",
+              "RelativeToolTip": "StripeWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T21:02:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Items [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StripePay/True/SqlTable/dbo.Items.sql",
+              "ToolTip": "dbo.Items [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-27T22:15:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Data\\MvcContext.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Data\\MvcContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Data\\MvcContext.cs",
+              "RelativeToolTip": "StripeWebApp\\Data\\MvcContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:01:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T21:16:44.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Homework\\Ch16\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T21:16:21.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\bin\Debug\net8.0\Proj3.exe
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\bin\Debug\net8.0\Proj3.deps.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\bin\Debug\net8.0\Proj3.runtimeconfig.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\bin\Debug\net8.0\Proj3.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\bin\Debug\net8.0\Proj3.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.AssemblyInfoInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.AssemblyInfo.cs
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.csproj.CoreCompileInputs.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.sourcelink.json
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\refint\Proj3.dll
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.pdb
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\Proj3.genruntimeconfig.cache
+C:\Users\natch\Documents\GitHub\awd1115-coursework-DominicCarneyRANKEN\Labs\CH01\CrashCourse\Proj3\obj\Debug\net8.0\ref\Proj3.dll

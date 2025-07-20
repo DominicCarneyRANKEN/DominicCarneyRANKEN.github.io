@@ -1,0 +1,17 @@
+﻿@model GiftCardsShop.Models.GiftCards
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <img src="~/images/@Model.Img" class="card-img-top" alt="@Model.Name">
+        <div class="card-body">
+            <h2 class="card-title">@Model.Name</h2>
+            <p class="card-text">@Model.Description</p>
+            <p class="card-text"><strong>Price: </strong>$@Model.Price</p>
+            <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back </a>
+        </div>
+    </div>
+</div>

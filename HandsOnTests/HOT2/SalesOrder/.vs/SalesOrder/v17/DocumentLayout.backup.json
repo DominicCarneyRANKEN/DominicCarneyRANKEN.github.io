@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\home\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\home\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\migrations\\20250209193523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\migrations\\20250209193523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\migrations\\20250209225337_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\migrations\\20250209225337_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\migrations\\salescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\migrations\\salescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\salesorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\salesorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\handsontests\\hot2\\salesorder\\salesorder\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BFFAFB-43E2-4A6F-90B7-9C61F157EAD7}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:35:33.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Home\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\AddEdit.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Home\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:35:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\Product.cs",
+              "RelativeToolTip": "SalesOrder\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:53:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\SalesContext.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Models\\SalesContext.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\SalesContext.cs",
+              "RelativeToolTip": "SalesOrder\\Models\\SalesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:24:49.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Models\\Category.cs",
+              "RelativeToolTip": "SalesOrder\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:52:27.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesOrder\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:29:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:57:55.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Home\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T00:42:00.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Program.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Program.cs",
+              "RelativeToolTip": "SalesOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:26:19.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:24:00.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:34:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:31:39.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesOrder\\appsettings.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\appsettings.json",
+              "RelativeToolTip": "SalesOrder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T18:35:15.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250209193523_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\20250209193523_Initial.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250209193523_Initial.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\20250209193523_Initial.cs",
+              "RelativeToolTip": "SalesOrder\\Migrations\\20250209193523_Initial.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:35:23.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250209225337_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\20250209225337_Updated.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250209225337_Updated.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\20250209225337_Updated.cs",
+              "RelativeToolTip": "SalesOrder\\Migrations\\20250209225337_Updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:53:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\SalesContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\SalesContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Migrations\\SalesContextModelSnapshot.cs",
+              "RelativeToolTip": "SalesOrder\\Migrations\\SalesContextModelSnapshot.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:09:16.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesOrder.csproj",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\SalesOrder.csproj",
+              "RelativeDocumentMoniker": "SalesOrder\\SalesOrder.csproj",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\SalesOrder.csproj",
+              "RelativeToolTip": "SalesOrder\\SalesOrder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T18:56:54.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:23:59.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SalesOrder\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\HandsOnTests\\HOT2\\SalesOrder\\SalesOrder\\appsettings.Development.json",
+              "RelativeToolTip": "SalesOrder\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:23:56.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

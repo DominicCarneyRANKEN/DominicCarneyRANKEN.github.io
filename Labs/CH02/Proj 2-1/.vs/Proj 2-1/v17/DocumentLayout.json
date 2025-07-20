@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH02\\Proj 2-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1146F5FB-E360-4115-83F4-849B0ED7F24D}|Project 3-1\\Project 3-1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch02\\proj 2-1\\project 3-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146F5FB-E360-4115-83F4-849B0ED7F24D}|Project 3-1\\Project 3-1.csproj|solutionrelative:project 3-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44E29D-A23A-40C0-8237-C6D356FE7D9C}|Project 2-2\\Project 2-2.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch02\\proj 2-1\\project 2-2\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA44E29D-A23A-40C0-8237-C6D356FE7D9C}|Project 2-2\\Project 2-2.csproj|solutionrelative:project 2-2\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH02\\Proj 2-1\\Project 3-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project 3-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH02\\Proj 2-1\\Project 3-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project 3-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T16:09:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH02\\Proj 2-1\\Project 2-2\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "Project 2-2\\Models\\Calculator.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH02\\Proj 2-1\\Project 2-2\\Models\\Calculator.cs",
+              "RelativeToolTip": "Project 2-2\\Models\\Calculator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:08:50.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

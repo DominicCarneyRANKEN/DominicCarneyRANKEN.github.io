@@ -1,0 +1,36 @@
+﻿@model AnimeBookmarksV2.Models.Genre
+
+@{
+	ViewData["Title"] = "Add Genre";
+	Layout = "_Layout";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/bootstrap2/css/bootstrap-grid.min.css" />
+
+<h1>Add Genre</h1>
+
+<form asp-action="CreateGenre" method="post">
+	<div class="form-group">
+		<label asp-for="Name" class="control-label">Genre:</label>
+		<input type="text" class="form-control" name="Name" asp-for="Name" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+	<button type="submit" class="btn btn-dark mt-2">Add</button>
+	<a href="@Url.Action("Genres", "Anime")" class="btn btn-dark">
+		Back
+	</a>
+</form>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+@if (TempData["ErrorMessage"] != null)
+{
+	<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

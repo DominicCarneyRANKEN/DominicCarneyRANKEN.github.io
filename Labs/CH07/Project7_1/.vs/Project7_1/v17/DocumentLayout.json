@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\controllers\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\controllers\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\shared\\_helplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\shared\\_helplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\tutorial\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\tutorial\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\tutorial\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\tutorial\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\areas\\help\\views\\tutorial\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\areas\\help\\views\\tutorial\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|c:\\users\\natch\\documents\\github\\awd1115-coursework-dominiccarneyranken\\labs\\ch07\\project7_1\\project7_1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E560F728-C97F-49C2-AF31-F18B4A3588FD}|Project7_1\\Project7_1.csproj|solutionrelative:project7_1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T03:02:18.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T15:42:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:48:45.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T16:18:42.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Program.cs",
+              "RelativeDocumentMoniker": "Project7_1\\Program.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Program.cs",
+              "RelativeToolTip": "Project7_1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:03:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TutorialController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:47:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:45:33.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:46:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:45:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_HelpLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:55:09.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T03:00:45.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project7_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project7_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:48:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:44:48.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Page3.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:45:04.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "RelativeToolTip": "Project7_1\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:44:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T16:23:31.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Project7_1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\natch\\Documents\\GitHub\\awd1115-coursework-DominicCarneyRANKEN\\Labs\\CH07\\Project7_1\\Project7_1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Project7_1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T16:24:18.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@model List<GiftCardsShop.Models.ManageUserViewModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+
+<h2>Manage Users</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Roles</td>
+                <td>
+                    <form asp-controller="Admin" asp-action="ToggleAdminRole" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-sm btn-warning">
+                            @(user.Roles == "Admin" ? "Remove Admin" : "Make Admin")
+                        </button>
+                    </form>
+                    <form asp-controller="Admin" asp-action="DeleteUser" method="post")>
+                        @Html.AntiForgeryToken();
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div asp-validation-summary="All" class="text-danger"></div>

@@ -1,0 +1,28 @@
+﻿@model Project8n1.Models.TripViewModel
+
+@{
+    ViewBag.Title = "Add New Trip";
+}
+
+<h2>Add New Trip</h2>
+
+<form asp-action="AddTrip" method="post">
+    <div class="form-group">
+        <label for="Destination">Destination</label>
+        <input type="text" class="form-control" id="Destination" name="Trip.Destination" required />
+    </div>
+
+    <div class="form-group">
+        <label for="StartDate">Start Date</label>
+        <input type="date" class="form-control" id="StartDate" name="Trip.StartDate" required />
+    </div>
+
+    <div class="form-group">
+        <label for="EndDate">End Date</label>
+        <input type="date" class="form-control" id="EndDate" name="Trip.EndDate" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Trip</button>
+</form>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back to List</a>

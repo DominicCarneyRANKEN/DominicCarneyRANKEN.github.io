@@ -1,0 +1,27 @@
+﻿@model IEnumerable<TripsLog.Models.Destination>
+
+<h1>Manage Destinations</h1>
+
+<p>
+    <a class="btn btn-primary" href="@Url.Action("Create")">Add Destination</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var destination in Model)
+        {
+            <tr>
+                <td>@destination.Name</td>
+                <td>
+                    <a href="@Url.Action("Delete", new { id = destination.DestinationId })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

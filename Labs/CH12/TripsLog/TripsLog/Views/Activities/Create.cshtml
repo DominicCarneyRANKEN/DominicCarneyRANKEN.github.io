@@ -1,0 +1,23 @@
+﻿@model TripsLog.Models.Activity
+
+@{
+    ViewData["Title"] = "Add Activity";
+}
+
+<h2>Add New Activity</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Add</button>
+    <a asp-action="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<div asp-validation-summary="All" class="text-danger"></div>
